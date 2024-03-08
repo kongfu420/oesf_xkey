@@ -1,0 +1,20 @@
+{
+  "name": "oesf_xkey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kongfu420/oesf_xkey"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "4_xid": "^1.0.0",
+    "3_xid": "^1.0.0"
+  }
+}
